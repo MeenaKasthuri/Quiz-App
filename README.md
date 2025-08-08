@@ -33,13 +33,13 @@ MainGUI.java: Graphical interface entry point
 
 ## How to Run
 
-Console Version: 
+### Console Version: 
 
 javac QuizApp/*.java
 
 java QuizApp.Main
 
-GUI Version
+### GUI Version
 
 javac QuizApp/*.java
 
