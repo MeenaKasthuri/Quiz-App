@@ -54,5 +54,3 @@ It checks if you are correct
 
 After all questions, it shows your total score
 
-java QuizApp.MainGUI
-
